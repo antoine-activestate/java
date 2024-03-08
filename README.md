@@ -16,6 +16,11 @@ Findings:
 
 ## Which projects?
 
+- [hello_world]
+  - produced by following [this spring.io tutorial](https://spring.io/guides/gs/maven)
+  - uses java 8
+  - has zero explicit dependencies
+
 - [pure-java-rest-api](https://github.com/piczmar/pure-java-rest-api)
   - not a spring or spring boot proejct
   - uses java 11
